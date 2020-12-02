@@ -1,2 +1,2 @@
-# IBM-Project
-Coursera IBM Project
+# IBM-location-ideas
+IBM Project
